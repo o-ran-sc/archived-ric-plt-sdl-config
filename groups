@@ -1,3 +1,4 @@
 # UUID                                                                             	Group Name
 #
+76cf4d70733416e73869a133ced562ddbae19888                                           	saml/oran-gerrit-ric-plt-sdl-config-committers
 ldap:cn=oran-gerrit-ric-plt-sdl-config-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-ric-plt-sdl-config-committers
